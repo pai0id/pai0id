@@ -1,11 +1,26 @@
-- 👋 Hi, I’m @pai0id
-- 👀 Current BMSTU student
-- 🌱 IU7
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+pai0id;I'm+Software+Engineering+Student)](https://git.io/typing-svg)
 
-![stud_it](https://github.com/pai0id/pai0id/assets/127775298/8a68a444-7cd4-48f1-a165-8d247e5065eb)
+<br>
+
+<div align="center" style="margin-bottom:200px">
+ <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=pai0id&theme=radical&show_icons=true" />
+ <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pai0id&layout=compact&theme=radical" />
+</div>
 
 
-<!---
-pai0id/pai0id is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br>
+
+
+#### Studying in this moment:
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=go"/>](https://golang.com/)
+
+<br>
+
+## Background:
+
+### Current BMSTU Software Engineering Student
+### IU7
+<img align="left" height="94px" width="94px" src="https://github.com/pai0id/pai0id/assets/127775298/384b82b3-c22e-4945-9a34-843a0aed5bb9">
+<img align="center" height="94px" width="94px" src="https://github.com/pai0id/pai0id/assets/127775298/38109095-dd94-4c59-b093-32fab756995a">
+
+<br>
