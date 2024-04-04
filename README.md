@@ -11,7 +11,7 @@
 <br>
 
 
-#### Studying in this moment:
+#### Studying at the moment:
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=go"/>](https://golang.com/)
 
 <br>
