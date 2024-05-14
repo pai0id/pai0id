@@ -19,8 +19,8 @@
 ## Background:
 
 ### Current BMSTU Software Engineering Student
-### IU7
-<img align="left" height="94px" width="94px" src="https://github.com/pai0id/pai0id/assets/127775298/384b82b3-c22e-4945-9a34-843a0aed5bb9">
-<img align="center" height="94px" width="94px" src="https://github.com/pai0id/pai0id/assets/127775298/38109095-dd94-4c59-b093-32fab756995a">
+### [IU7](https://iu7.bmstu.ru/)
+ [<img align="left" height="94px" width="94px" src="https://github.com/pai0id/pai0id/assets/127775298/384b82b3-c22e-4945-9a34-843a0aed5bb9">](https://bmstu.ru/)
+[<img align="center" height="94px" width="94px" src="https://github.com/pai0id/pai0id/assets/127775298/38109095-dd94-4c59-b093-32fab756995a" misc="CockBalls">](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 <br>
