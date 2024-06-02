@@ -13,6 +13,7 @@
 
 #### Studying at the moment:
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=go"/>](https://golang.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=cs"/>](https://dotnet.microsoft.com/en-us/learn/csharp)
 
 <br>
 
